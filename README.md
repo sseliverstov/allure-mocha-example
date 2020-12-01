@@ -4,4 +4,4 @@ at first `npm install`
 
 and `npm run test` for all test
 
-or `npm run testplan` for run test with testplan-example.json
+or `npm run testplan` for run with testplan-example.json
