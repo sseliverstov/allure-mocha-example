@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "allure-mocha-example",
+  "version": "1.0.0",
+  "author": "Stanislav Seliverstov <s.seliverstov@gmail.com>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "mocha",
+    "testplan": "ALLURE_TESTPLAN_PATH=testplan-example.json mocha"
+
+  },
+  "dependencies": {
+    "allure-mocha": "^2.0.0-beta.8",
+    "mocha": "^8.2.1"
+  }
+}

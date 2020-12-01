@@ -1,0 +1,5 @@
+{
+  "spec": "./specs/**/*.spec.js",
+  "reporter": "allure-mocha",
+  "require": "./grep.js"
+}
